@@ -3,8 +3,6 @@ apenas envie para a vitíma, após isso, mande ela executar o start.vbs!
 
 código por [hiru](https://twitter.com/BrHiru), com ajuda de Far.
 
-recomendo usarem um exe converter para os scripts .bat
-
 lembrando que nada está programado para prejudicar seu pc, tudo voltará ao normal após reiniciar.
 
 em breve atualizações no código e melhorias!
